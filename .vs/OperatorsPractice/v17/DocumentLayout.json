@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\HyHuynh\\TrueCoders\\repos\\OperatorsPractice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{383AB962-A481-4D7B-9D05-E39E7CB44465}|OperatorsPractice\\OperatorsPractice.csproj|c:\\hyhuynh\\truecoders\\repos\\operatorspractice\\operatorspractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{383AB962-A481-4D7B-9D05-E39E7CB44465}|OperatorsPractice\\OperatorsPractice.csproj|solutionrelative:operatorspractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\HyHuynh\\TrueCoders\\repos\\OperatorsPractice\\OperatorsPractice\\Program.cs",
+              "RelativeDocumentMoniker": "OperatorsPractice\\Program.cs",
+              "ToolTip": "C:\\HyHuynh\\TrueCoders\\repos\\OperatorsPractice\\OperatorsPractice\\Program.cs",
+              "RelativeToolTip": "OperatorsPractice\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAkwCcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T18:28:18.624Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\HyHuynh\TrueCoders\repos\OperatorsPractice\OperatorsPractice\bin\Debug\net8.0\OperatorsPractice.exe
+C:\HyHuynh\TrueCoders\repos\OperatorsPractice\OperatorsPractice\bin\Debug\net8.0\OperatorsPractice.deps.json
+C:\HyHuynh\TrueCoders\repos\OperatorsPractice\OperatorsPractice\bin\Debug\net8.0\OperatorsPractice.runtimeconfig.json
+C:\HyHuynh\TrueCoders\repos\OperatorsPractice\OperatorsPractice\bin\Debug\net8.0\OperatorsPractice.dll
+C:\HyHuynh\TrueCoders\repos\OperatorsPractice\OperatorsPractice\bin\Debug\net8.0\OperatorsPractice.pdb
+C:\HyHuynh\TrueCoders\repos\OperatorsPractice\OperatorsPractice\obj\Debug\net8.0\OperatorsPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\HyHuynh\TrueCoders\repos\OperatorsPractice\OperatorsPractice\obj\Debug\net8.0\OperatorsPractice.AssemblyInfoInputs.cache
+C:\HyHuynh\TrueCoders\repos\OperatorsPractice\OperatorsPractice\obj\Debug\net8.0\OperatorsPractice.AssemblyInfo.cs
+C:\HyHuynh\TrueCoders\repos\OperatorsPractice\OperatorsPractice\obj\Debug\net8.0\OperatorsPractice.csproj.CoreCompileInputs.cache
+C:\HyHuynh\TrueCoders\repos\OperatorsPractice\OperatorsPractice\obj\Debug\net8.0\OperatorsPractice.dll
+C:\HyHuynh\TrueCoders\repos\OperatorsPractice\OperatorsPractice\obj\Debug\net8.0\refint\OperatorsPractice.dll
+C:\HyHuynh\TrueCoders\repos\OperatorsPractice\OperatorsPractice\obj\Debug\net8.0\OperatorsPractice.pdb
+C:\HyHuynh\TrueCoders\repos\OperatorsPractice\OperatorsPractice\obj\Debug\net8.0\OperatorsPractice.genruntimeconfig.cache
+C:\HyHuynh\TrueCoders\repos\OperatorsPractice\OperatorsPractice\obj\Debug\net8.0\ref\OperatorsPractice.dll
